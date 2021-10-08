@@ -3,8 +3,6 @@
 - 👩‍💻 I’m currently working on а diploma in Yandex.Practicum
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me in Telegram: @vasilkovai
-- 🧶 Additional skill: I can knit a Weasley sweater
-- 🐶 I have a dog - Bilbo
 
 ### Languages and Tools
 

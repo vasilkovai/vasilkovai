@@ -1,7 +1,6 @@
 ### Oh, hello! I'm Irina Vasilkova!
 
 - 👩‍💻 I’m currently working on а diploma in Yandex.Practicum
-- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me in Telegram: @vasilkovai
 
 ### Languages and Tools

@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Irina!
 
 - 👩‍💻 From auditor to web developer
-- 💛 I like to code and I think it's mutual
+- ❤️ I like to code and I think it's mutual
 - 💪 I want to work in a dream team
 - ⚡️  My hobbies are reading, knitting and hugging my dog
 

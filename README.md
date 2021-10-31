@@ -20,7 +20,7 @@
 
 ## 📊 Statistics:
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vasilkovai&theme=default&show_icons=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilkovai&layout=compact&langs_count=7&theme=default"/>
 </div>

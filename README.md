@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Irina!
+## Hi there 👋, I'm Irina!
 
-- 👩‍💻 
-- 
-- 
+- 👩‍💻 From auditor to web developer
+- 💜 I like to code and I think it's mutual
+- 💪 I want to work in a dream team
+- ⚡️  My hobbies are reading, knitting and hugging my dog
 
-### Languages and Tools:
+## 🚀 Languages and Tools:
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,9 +18,9 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
-### Statistics:
+## 📊 Statistics:
 
-<div style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vasilkovai&theme=buefy&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilkovai&layout=compact&langs_count=7&theme=buefy"/>
+<div style="display: flex">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vasilkovai&theme=default&show_icons=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilkovai&layout=compact&langs_count=7&theme=default"/>
 </div>

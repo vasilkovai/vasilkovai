@@ -20,6 +20,6 @@
 ### Statistics:
 
 <div style="display: inline_block">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vasilkovai&theme=buefy&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilkovai&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vasilkovai&theme=buefy&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasilkovai&layout=compact&langs_count=7&theme=buefy"/>
 </div>

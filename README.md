@@ -29,7 +29,7 @@
 
 <div style="display: inline_block">
   <a href="mailto:hellovasilkovai@gmail.com" target="_blank"><img height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">   </a>
+  <a href="https://www.linkedin.com/in/vasilkovai/" target="_blank"><img height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  </a>
   <a href="https://t.me/vasilkovai" target="_blank"><img height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>
-  <a href="https://www.instagram.com/vasilkovai/" target="_blank"><img height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-  <a href="https://vk.com/vasilkovai/" target="_blank"><img height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"></a>
 </div>
